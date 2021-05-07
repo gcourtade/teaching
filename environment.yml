@@ -1,0 +1,6 @@
+name: sugars
+dependencies:
+  - python
+  - numpy
+  - matplotlib
+  - mogli
