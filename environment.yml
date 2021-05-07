@@ -1,6 +1,6 @@
 name: sugars
 dependencies:
-  - python
+  - MDAnalysis
   - numpy
   - matplotlib
-  - mogli
+  - nglview
