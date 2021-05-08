@@ -1,6 +1,0 @@
-name: sugars
-dependencies:
-  - MDAnalysis
-  - numpy
-  - matplotlib
-  - nglview
