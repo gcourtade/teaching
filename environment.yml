@@ -1,0 +1,6 @@
+name: teaching
+dependencies:
+  - numpy
+  - scipy
+  - matplotlib
+  - nglview
